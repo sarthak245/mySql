@@ -1,0 +1,8 @@
+//1st program my sql
+//1st lab class dbms
+sudo mysql;
+create databse dbname;
+connect dbname;
+create table student (stud_id numeric(5), stud_name varchar(20));
+desc student;
+//AlTER TABLE DEPT RENAME TO DEPARTMENT ;
